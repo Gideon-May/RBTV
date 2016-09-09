@@ -1,4 +1,4 @@
 #Rocket Beans TV
-Data Analysis for RBTV Channel 
+Data analysis for RBTV channel 
 
 Just playing around with some data
